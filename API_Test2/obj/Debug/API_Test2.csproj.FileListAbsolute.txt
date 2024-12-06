@@ -1,0 +1,36 @@
+F:\API\API_Test2\API_Test2\bin\Debug\API_Test2.exe.config
+F:\API\API_Test2\API_Test2\bin\Debug\API_Test2.exe
+F:\API\API_Test2\API_Test2\bin\Debug\API_Test2.pdb
+F:\API\API_Test2\API_Test2\bin\Debug\Newtonsoft.Json.dll
+F:\API\API_Test2\API_Test2\bin\Debug\Newtonsoft.Json.xml
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.AssemblyReference.cache
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.SuggestedBindingRedirects.cache
+F:\API\API_Test2\API_Test2\obj\Debug\MainWindow.g.cs
+F:\API\API_Test2\API_Test2\obj\Debug\App.g.cs
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2_MarkupCompile.cache
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2_MarkupCompile.lref
+F:\API\API_Test2\API_Test2\obj\Debug\MainWindow.baml
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.g.resources
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.Properties.Resources.resources
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.GenerateResource.cache
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.CoreCompileInputs.cache
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.CopyComplete
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.exe
+F:\API\API_Test2\API_Test2\obj\Debug\API_Test2.pdb
+F:\Новая папка\API\API_Test2\API_Test2\bin\Debug\API_Test2.exe.config
+F:\Новая папка\API\API_Test2\API_Test2\bin\Debug\API_Test2.exe
+F:\Новая папка\API\API_Test2\API_Test2\bin\Debug\API_Test2.pdb
+F:\Новая папка\API\API_Test2\API_Test2\bin\Debug\Newtonsoft.Json.dll
+F:\Новая папка\API\API_Test2\API_Test2\bin\Debug\Newtonsoft.Json.xml
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.csprojAssemblyReference.cache
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\MainWindow.g.cs
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\App.g.cs
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2_MarkupCompile.cache
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2_MarkupCompile.lref
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\MainWindow.baml
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.g.resources
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.Properties.Resources.resources
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.GenerateResource.cache
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.csproj.CopyComplete
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.exe
+F:\Новая папка\API\API_Test2\API_Test2\obj\Debug\API_Test2.pdb
